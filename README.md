@@ -13,10 +13,6 @@ Simulate and resolve common identity-related issues found in enterprise environm
 - Observed loss of access
 - Restored membership to resolve issue
 
-![Group Membership Added](screenshots/01-sarah-in-employees.png)
-![Group Membership Removed](screenshots/02-sarah-removed.png)
-![Group Membership Restored](screenshots/03-sarah-restored.png)
-
 ---
 
 ## Scenario 2: Disabled Account
@@ -24,16 +20,11 @@ Simulate and resolve common identity-related issues found in enterprise environm
 - Identified authentication impact
 - Re-enabled account to restore access
 
-![Account Disabled](screenshots/04-account-disabled.png)
-![Account Enabled](screenshots/05-account-enabled.png)
-
 ---
 
 ## Scenario 3: Role-Based Access Review
 - Reviewed administrative role assignments
 - Verified correct permissions
-
-![RBAC Review](screenshots/06-role-review.png)
 
 ---
 
@@ -41,8 +32,6 @@ Simulate and resolve common identity-related issues found in enterprise environm
 - Reviewed authentication logs
 - Analyzed application usage and IP address
 - Confirmed successful sign-ins
-
-![Sign-In Logs](screenshots/07-log-investigation.png)
 
 ---
 
